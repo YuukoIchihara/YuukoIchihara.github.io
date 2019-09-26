@@ -1894,21 +1894,21 @@ mark {
       .navigation a,
       .footer-rss,
       .item .item-image {
-        background-color: #ff6b6b;
+        background-color: #fa5252;
       }
 
       .item:hover h2,
       .prev-post a:hover, .post-archives a:hover {
-        color: #ff6b6b;
+        color: #fa5252;
       }
 
       .tags .tag:hover {
-        border-color: #ff6b6b;
+        border-color: #fa5252;
       }
 
       .post-content a:hover {
-        color: #ff6b6b;
-        border-color: #ff6b6b;
+        color: #fa5252;
+        border-color: #fa5252;
       }
       
     
