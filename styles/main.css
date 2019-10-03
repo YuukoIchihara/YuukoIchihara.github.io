@@ -1912,3 +1912,63 @@ mark {
       }
       
     
+      //html
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg"/> 
+    <p>图片初始化</p>
+</div>
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg fillImg"/> 
+    <p>object-fit:fill</p>
+</div>
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg containImg"/> 
+    <p>object-fit:contain</p>
+</div>
+</br>
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg coverImg"/> 
+    <p>object-fit:cover</p>
+</div>
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg noneImg"/> 
+    <p>object-fit:none</p>
+</div>
+ 
+<div>
+    <img src="./public/test.jpg" class="initImg scaleDownImg"/> 
+    <p>object-fit:scale-down</p>
+</div>
+ 
+ 
+//css
+body div{
+    display: inline-block;
+    text-align: center;
+}
+.initImg{
+    width: 150px;
+    height: 80px;
+}
+.fillImg{
+    object-fit: fill;
+}
+.containImg{
+    object-fit: contain;
+}
+.coverImg{
+    object-fit: cover;
+}
+.noneImg{
+    object-fit: none;
+}
+.scaleDownImg{
+    object-fit: scale-down;
+}
+
+    
