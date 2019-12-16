@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akashiro.work/</id>
     <title>Akashiro</title>
-    <updated>2019-10-04T14:48:45.674Z</updated>
+    <updated>2019-12-16T03:15:57.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akashiro.work/"/>
     <link rel="self" href="https://akashiro.work//atom.xml"/>
@@ -11,10 +11,10 @@
     <icon>https://akashiro.work//favicon.ico</icon>
     <rights>All rights reserved 2019, Akashiro</rights>
     <entry>
-        <title type="html"><![CDATA[资源获取途径]]></title>
-        <id>https://akashiro.work//post/zi-yuan-huo-qu-tu-jing</id>
-        <link href="https://akashiro.work//post/zi-yuan-huo-qu-tu-jing">
+        <title type="html"><![CDATA[角色技能释放]]></title>
+        <id>https://akashiro.work//post/jiao-se-ji-neng-shi-fang</id>
+        <link href="https://akashiro.work//post/jiao-se-ji-neng-shi-fang">
         </link>
-        <updated>2019-10-04T10:56:09.000Z</updated>
+        <updated>2019-12-16T03:15:21.000Z</updated>
     </entry>
 </feed>
